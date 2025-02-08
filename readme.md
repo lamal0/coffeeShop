@@ -19,13 +19,6 @@
    ```sh
    git clone https://github.com/your-username/coffee-shop.git
    ```
-2. Запустіть локальний сервер (для PHP):
-   ```sh
-   php -S localhost:8000
-   ```
 
-## Автори
-Посохов Олексій – розробник сайту
-
-## Ліцензія
-MIT License
+## Автор
+Посохов Олексій
